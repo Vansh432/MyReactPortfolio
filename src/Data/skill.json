@@ -1,0 +1,44 @@
+[
+    {
+        "programingLanguage": [
+            {
+                "img": "https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_1280.png",
+                "technicalName": "Javascript"
+            },
+            {
+                "img": "https://i.pinimg.com/564x/ac/12/11/ac12119eefee51e85abbd845c7237ea5.jpg",
+                "technicalName": "Java"
+            },
+            {
+                "img": "https://i.pinimg.com/564x/66/d5/23/66d5238900aab3d7b86dc5e53a77c817.jpg",
+                "technicalName": "Typescipt"
+            }
+        ],
+        "developerSkill": [
+            {
+                "img": "https://i.pinimg.com/564x/ce/45/5f/ce455f4e7d741fb85eb763cbbdf9e43f.jpg",
+                "technicalName": "HTML"
+            },
+            {
+                "img": "https://i.pinimg.com/564x/ac/26/26/ac262626eb1e924c85b8b68fe97c2213.jpg",
+                "technicalName": "CSS"
+            },
+            {
+                "img": "https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png",
+                "technicalName": "React.js"
+            },
+            {
+                "img": "https://i.pinimg.com/564x/f3/4a/02/f34a0218dd2e38726c52ac763df55fa7.jpg",
+                "technicalName": "Node.js"
+            },
+            {
+                "img": "https://i.pinimg.com/280x280_RS/05/69/c2/0569c2ac4ca74b32f51d65d47bdff737.jpg",
+                "technicalName": "MongoDB"
+            },
+            {
+                "img": "https://i.pinimg.com/236x/48/e0/f3/48e0f3e95f00646880441f490bf008f5.jpg",
+                "technicalName": "AWS"
+            }
+        ]
+    }
+]

@@ -1,0 +1,27 @@
+.lineDivider{
+    position: relative;
+}
+.lineDivider::before{
+    content: '';
+    position: absolute;
+    width: 90%;
+    background-color: rgb(193, 193, 193);
+    height: 2px;
+    top: 15px;
+    left: 90px;
+    z-index: -1;
+}
+.backblur{
+    z-index: 1000;
+    background-color: #fff;
+}
+@media only screen and (max-width:400px){
+    .lineDivider::before{
+        display: none;
+    }
+    .backblur{
+        margin: auto;
+        background-color: yellow;
+        border-radius:5px ;
+    }
+     }

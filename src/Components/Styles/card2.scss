@@ -1,0 +1,71 @@
+
+.card2{
+    position: relative;
+    box-shadow: 20px 20px 50px rgba(0,0,0,0.5);
+    border-radius:15px;
+    background:rgba(255,255,255,0.1);
+    display: flex;
+    justify-content: center;
+    height: fit-content;
+    width: 500px;
+}
+.tiltBox{
+    width: 500px;
+    height: 320px;
+}
+.container{
+    position: relative;
+}
+.line{
+    position: absolute;
+    top: 0;
+    left: 50%;
+    width: 1px;
+    height: 100%;
+    background-color: rgb(188, 188, 188);
+    z-index: 1;
+}
+
+.circlestyleRight
+{
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    transform: skew(20deg);
+    right:49.6%;
+    top:50%;
+    background-color: black;
+    transform: rotate(50deg);
+    z-index: 100;
+}
+.circlestyleLeft
+{
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left:49.7%;
+    top:50%;
+    background-color: black;
+    transform: skew(20deg);
+    transform: rotate(50deg);
+    z-index: 100;
+}
+@media only screen and (max-width:400px){
+   .circlestyleLeft, .circlestyleRight,.line{
+    display: none;
+     }
+     .card2{
+        width: 320px;
+        height: 350px;
+     }
+     .tiltBox{
+        // : 2px solid red;
+        width: 320px;
+        margin-bottom: 20px;
+        
+     }
+   
+     .tiltBox img{
+        display: none;
+     }
+    }

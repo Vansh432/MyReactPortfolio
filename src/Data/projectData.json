@@ -1,0 +1,23 @@
+[ 
+    {
+    "nameProject":"PhotoX",
+    "projectType":"Frontend - React.js",
+    "date":"JUN 2024",
+    "content":"PhotoX is react project.in this project you can search any images. it provides best results. used api for better searching. features like, if you want set favourate image. you can set image favourate. it stores in favourate section.  ",
+    "link":"https://github.com/Vansh432/PhotoX/tree/master"
+},
+    {
+        "nameProject":"Issues Tracker",
+        "projectType":"Full stack - Node js",
+        "date":"OCT 2023",
+        "content":"Issue Tracker helps Tracking Project and Issue. the tool offers seamless navigation, powerful filtering options, and efficient issue tracking capabilities. Backend using Node.js server and handle request and response using routes, store the project and issues data in mongodb using mongoose(ODM) Developed the Project Detail Page, enabling users to filter bugs by multiple labels, search by title and author.",
+        "link":"https://github.com/Vansh432/issueTracker"
+    },
+    {
+        "nameProject":"Upload CSV File",
+        "projectType":"Full stack - Node js",
+        "date":"AUG 2023",
+        "content":"Developed a user-friendly web application for uploading and performing operations on CSV files, including file upload.listing, data display,search functionality, and sorting features.Implemented file validation on both the front end and server side to ensure data integrity and security Acquired knowledge in technologies like Multer, Dynamic Schema, Mongoose, fast-csv, and csvtojson",
+        "link":"https://github.com/Vansh432/UploadCSV"
+    }
+]
