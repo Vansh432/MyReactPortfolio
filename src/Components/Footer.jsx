@@ -11,7 +11,7 @@ function Footer() {
                 </div>
             </div>
             <div className="bg-black h-20 flex justify-center items-center max-[350px]:text-[.7rem]">
-              © 2022 Vansh. Design by Vansh deep arya
+              © 2024 Vansh. Design by Vansh deep arya
             </div>
         </div>
     </>
