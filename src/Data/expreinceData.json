@@ -4,13 +4,15 @@
       "company":"Resolute Lab India",
       "duration":"OCT 2023 - Persent",
       "description":" I handles both [frontend and backend] part of  the website. In frontend part, I creates website design and improve the design day by day.  I also add the beautiful animation. In Backend part, I have used  PHP, SQL and Mysql. I handles the bugs and  improve the website. ",
+      "img":"./resoluteLogo.png",
       "flex":true
    },
    {
       "heading":"Teaching Assistant of full stack web developer",
       "company":"Coding Ninjas",
-      "duration":"OCT 2023 - Persent",
+      "duration":"APR 2023 - OCT 2023",
       "description":"I have resolve doubt in code of full stack web development technology such as Frontend and Backend development also debugs the code and also Projects Evaluated of students.Currently, I have 700+ resolve doubts of students with rating 4.66 and daily resolve 20+ doubts I have evaluated 25+ project.",
+      "img":"./codingNinjasLogo.jpg",
       "flex":false
    }
 ]

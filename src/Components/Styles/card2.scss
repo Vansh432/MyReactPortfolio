@@ -9,6 +9,12 @@
     height: fit-content;
     width: 500px;
 }
+.card2 img{
+    width: 300px;
+    height: 50px;
+    object-fit: cover;
+    background-color: black;
+}
 .tiltBox{
     width: 500px;
     height: 320px;
@@ -59,13 +65,15 @@
         height: 350px;
      }
      .tiltBox{
-        // : 2px solid red;
         width: 320px;
         margin-bottom: 20px;
-        
      }
-   
-     .tiltBox img{
-        display: none;
+     .card2{
+        display: block;
      }
+     .card2  img{
+        width: 30px;
+        height: 30px;
+     }
+     
     }

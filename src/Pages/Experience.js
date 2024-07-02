@@ -8,7 +8,6 @@ function Experience(){
         <h1 className='headingAllPage'>EXPERIENCES</h1>
       
         {Data.map(Element=>{
-          
           return <Card2  {...Element}/>
         })}
     
