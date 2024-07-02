@@ -17,7 +17,7 @@ function Card2(props) {
                     </div>
                     <div className="pt-5 max-sm:pt-1">
                         <h2 className='font-bold text-2xl pb-2 '>{heading}</h2>
-                        <h3 className='pb-4 flex items-center'> {company} <span className='border-2 px-2 rounded-xl'>{duration}</span>
+                        <h3 className='pb-4 flex items-center'> {company} <span className='border-2 px-2 rounded-xl max-sm:ml-3'>{duration}</span>
                         </h3>
                         <p className='experDescription'>{description}</p>
                     </div>
